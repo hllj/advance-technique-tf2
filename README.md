@@ -17,7 +17,7 @@
 
   Compare how the Functional API differs from the Sequential API, and see how the Functional API gives you additional flexibility in designing models. Practice using the functional API and build a Siamese network!
 
-  ![Examples and Assigment here](./1.%20%20Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow/Week%201)
+  [Examples and Assigment here](./1.%20%20Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow/Week%201)
 
 ### Week 2:
 
@@ -83,3 +83,37 @@
   This week, you will harness the power of distributed training to process more data and train larger models, faster. You’ll get an overview of various distributed training strategies and then practice working with two strategies, one that trains on multiple GPU cores, and the other that trains on multiple TPU cores. Get your cape ready, because you’re going to get some superpowers this week!
 
   [Examples and Assigment here](./2.%20Custom%20and%20Distributed%20Training%20with%20TensorFlow/Week%204)
+
+
+## Course 3: Advanced Computer Vision with TensorFlow
+
+### Week 1
+
+  Introduction to Computer Vision
+
+  Get a conceptual overview of image classification, object localization, object detection, and image segmentation. Also be able to describe multi-label classification, and distinguish between semantic segmentation and instance segmentation. In the rest of this course, you will apply TensorFlow to build object detection and image segmentation models.
+
+  [Examples and Assigment here](./3.Advanced%20Computer%20Vision%20with%20TensorFlow/Week%201)
+
+### Week 2
+  Object Detection
+
+  This week, you’ll get an overview of some popular object detection models, such as regional-CNN and ResNet-50. You’ll use object detection models that you’ll retrieve from TensorFlow Hub, download your own models and configure them for training, and also build your own models for object detection. By using transfer learning, you will train a model to detect and localize rubber duckies using just five training examples. You’ll also get to manually label your own rubber ducky images!
+
+  [Examples and Assigment here](./3.Advanced%20Computer%20Vision%20with%20TensorFlow/Week%202)
+
+### Week 3
+  Image Segmentation
+
+  This week is all about image segmentation using variations of the fully convolutional neural network. With these networks, you can assign class labels to each pixel, and perform much more detailed identification of objects compared to bounding boxes. You’ll build the fully convolutional neural network, U-Net, and Mask R-CNN this week to identify and detect numbers, pets, and even zombies!
+
+  [Examples and Assigment here](./3.Advanced%20Computer%20Vision%20with%20TensorFlow/Week%203)
+
+### Week 4
+  Visualization and Interpretability
+
+  This week, you’ll learn about the importance of model interpretability, which is the understanding of how your model arrives at its decisions. You’ll also implement class activation maps, saliency maps, and gradient-weighted class activation maps to identify which parts of an image are being used by your model to make its predictions. You’ll also see an example of how visualizing a model’s intermediate layer activations can help to improve the design of a famous network, AlexNet.
+
+  [Examples and Assigment here](./3.Advanced%20Computer%20Vision%20with%20TensorFlow/Week%204)
+
+## Course 4: Generative Deep Learning with TensorFlow -- Update soon
